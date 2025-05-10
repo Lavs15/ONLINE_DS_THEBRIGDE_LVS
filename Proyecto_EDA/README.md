@@ -1,9 +1,12 @@
-<h> EDA: Correlación entre cryptomonedas y divisas FIAT</h>
+# EDA: Correlación entre cryptomonedas y divisas FIAT
 
+## Introducción
 El presente proyecto es realizado debido a la creciente demanda de criptomonedas para evaluar si tienen una relación directa con alguna de las divisas respaldadas por gobiernos centrales llamadas FIAT o si tienen alguna relación entre ellas.
 
 
-Datos
+Enlace a [video de presentación](https://drive.google.com/file/d/16Eju_K_0I02mVm949rUkJI1wpBhmTVG9/view?usp=sharing)
+
+## Datos
 
 Para la realización de esta investigación hemos utilizados los datos de Yahoo Finance, para las monedas FIAT del caso de estudio elegimos el Euro, la libra esterlina, el yen Japones, el dólar australiano y el dólar canadiense. Utilizamos estas monedas por son las que tienen mayor volumen de transacción en el mundo, no hemos usado el dólar de Estados Unidos debido a que es la moneda que utilizamos para fijar los precios de todas las monedas utilizadas en este estudio.  
 Por parte de las criptomonedas las hemos dividido en tres grupos de 5 uno que llamamos cripto que está compuesto por las monedas Bitcoin, Ethereum, Solana, XRP y Binance que son las monedas con mayor volumen de transacciones en el mercado de criptomonedas.   
